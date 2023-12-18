@@ -11,8 +11,6 @@ plotly-express==0.4.1
 plotly==5.15.0
 tensorflow==2.14.0
 tensorflow-estimator==2.14.0
-tensorflow-intel==2.14.0
-tensorflow-io-gcs-filesystem==0.31.0
 keras==2.14.0
 pydot==1.4.2
 pydot-ng==2.0.0
